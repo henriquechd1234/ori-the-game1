@@ -1,0 +1,42 @@
+body{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+}
+#ori_titulo{
+position: fixed;
+margin-top: -13%;
+margin-left: 38%;
+width: 20%;
+}
+#texto1{
+    margin-left: 7%;
+    margin-top: 10%;
+    color: white;
+}
+#persona{
+    margin-left: 38%;
+    font-size: 50px;
+    color: white;
+}
+#ori_princ{
+    width: 10%;
+    margin-left: 7%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+#Naru1{
+    color: white;
+    margin-left: 20%;
+    margin-top: -20%;
+
+}
+#naru2{
+    margin-left: 21%;
+    color: white;
+
+}
+#Tudonaru{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5%;
+    height: 512px;
+    
+}
